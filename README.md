@@ -1,2 +1,2 @@
-# Website-1
-Sample Website design
+# Website Template-1
+Sample Website Template 1
